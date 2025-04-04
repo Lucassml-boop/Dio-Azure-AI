@@ -93,9 +93,7 @@ A tecnologia utilizada neste projeto pode ser aplicada em diversas áreas, como:
 #### ✅ Descobri como a IA pode enriquecer dados não estruturados.
 #### ✅ Pratiquei consultas avançadas no Search Explorer.
 #### ✅ Compreendi como esse tipo de projeto pode ser útil em análises de feedback de clientes.
-
-##### 📸 Prints do Projeto
-- ![Pesquisa](./prints/pesquisa.png)
+--
 ##### 📢 Próximos Passos
 ### 🔹 Criar um dashboard para visualizar os resultados.
 #### 🔹 Testar a integração com uma API externa para buscar avaliações em tempo real.
